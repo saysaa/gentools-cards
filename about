@@ -1,0 +1,5 @@
+Here is GenTools Cards, a completely free software that allows you to generate valid card numbers. The 16 digits must be valid.
+
+**How does GenTools Cards work?** 
+
+This works with the lute algorithm which is used to generate the 16 digits of the bank card and this program uses it.
